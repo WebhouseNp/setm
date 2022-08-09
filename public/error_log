@@ -1,0 +1,1 @@
+[08-Nov-2021 11:56:00 UTC] PHP Fatal error:  Cannot redeclare Modules\Frontend\Http\Controllers\FrontendController::careerApply() in /home5/webtest1/suomiadmin.webhouse.com.np/Modules/Frontend/Http/Controllers/FrontendController.php on line 79

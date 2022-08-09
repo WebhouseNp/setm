@@ -1,0 +1,13 @@
+{
+    "name": "Whatwedo",
+    "alias": "whatwedo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Whatwedo\\Providers\\WhatwedoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

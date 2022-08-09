@@ -1,0 +1,13 @@
+{
+    "name": "WorkingProcess",
+    "alias": "workingprocess",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\WorkingProcess\\Providers\\WorkingProcessServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
